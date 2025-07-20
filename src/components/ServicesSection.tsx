@@ -26,7 +26,7 @@ const ServicesSection = () => {
     {
       icon: Headphones,
       title: "Suporte Direto",
-      description: "Atendimento pessoal e direto comigo, sem burocracia ou intermediários, garantindo comunicação clara."
+      description: "Atendimento pessoal e direto com Rakim Pedro e sua equipe, sem burocracia ou intermediários, garantindo comunicação clara."
     },
     {
       icon: MapPin,
@@ -45,7 +45,7 @@ const ServicesSection = () => {
             </h2>
             <div className="w-24 h-1 bg-gradient-primary mx-auto mb-8"></div>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Desenvolvo sites personalizados com foco em estética, performance e usabilidade. 
+              Desenvolvemos sites personalizados com foco em estética, performance e usabilidade. 
               Cada projeto é pensado para gerar resultados reais para o seu negócio.
             </p>
           </div>

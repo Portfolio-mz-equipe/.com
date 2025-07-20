@@ -26,7 +26,7 @@ const DifferentialsSection = () => {
     {
       icon: Heart,
       title: "Suporte Humano",
-      description: "Atendimento direto comigo, com transparência, pontualidade e comunicação clara sempre."
+      description: "Atendimento direto com Rakim Pedro e sua equipe, com transparência, pontualidade e comunicação clara sempre."
     },
     {
       icon: Clock,
@@ -81,8 +81,8 @@ const DifferentialsSection = () => {
                 Compromisso com a Qualidade
               </h3>
               <p className="text-lg opacity-90 max-w-3xl mx-auto">
-                Trabalho com dedicação em cada projeto, porque seu sucesso é o meu sucesso. 
-                Quando seu site funciona bem e atrai clientes, significa que fiz meu trabalho da forma correta.
+                Trabalhamos com dedicação em cada projeto, porque seu sucesso é o nosso sucesso. 
+                Quando seu site funciona bem e atrai clientes, significa que fizemos nosso trabalho da forma correta.
               </p>
             </div>
           </div>

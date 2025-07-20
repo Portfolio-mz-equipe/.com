@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="md:col-span-2">
               <h3 className="text-3xl font-bold text-primary mb-4">mz.sites</h3>
               <p className="text-gray-300 leading-relaxed mb-6 max-w-md">
-                Desenvolvimento de sites profissionais para negócios locais que desejam 
+                Rakim Pedro e sua equipe desenvolvem sites profissionais para negócios locais que desejam 
                 se destacar no ambiente digital com qualidade, modernidade e resultados.
               </p>
               <div className="flex items-center space-x-2 text-gray-300">
